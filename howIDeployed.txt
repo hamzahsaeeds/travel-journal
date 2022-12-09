@@ -1,0 +1,10 @@
+I simply first downloaded my scrim's code from Scrimba.
+Then I opened it in VS Code and ran these two commands:
+npm install
+npm run build
+
+I think this file called index.pack.js was created or at least updated as a result of executing the second command
+
+Then I used the 'deploy manually' option on Netlify and uploaded the entire folder there.
+
+And voila it worked!
